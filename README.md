@@ -1,1 +1,2 @@
 # Medical-Cost-Prediction
+This project is buildt with the help of various libraries like Seaborn, Matplotlib, NumPy and Pandas. In order to visulize the dataset and finding out the co-relation among various factors, I have plotted heatmap with help of seaborn and matplotlib. Also, Linear Regression model is used in this project. It achieved an r-squared score of 74.44 . Also, I have cross validated the score to avoid overfitting of the model.
